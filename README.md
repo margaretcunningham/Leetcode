@@ -10,7 +10,7 @@ Welcome to my LeetCode Problem Portfolio! This repository showcases my problem-s
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction {#introduction}
+## Introduction <a id="introduction"></a>
 
 LeetCode is a renowned platform for practicing coding skills and preparing for technical interviews. This portfolio demonstrates my dedication to honing my problem-solving abilities and my commitment to continuous learning. It showcases my familiarity with various algorithms, data structures, and problem domains encountered on the platform.
 

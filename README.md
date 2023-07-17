@@ -14,19 +14,19 @@ Welcome to my LeetCode Problem Portfolio! This repository showcases my problem-s
 
 LeetCode is a renowned platform for practicing coding skills and preparing for technical interviews. This portfolio demonstrates my dedication to honing my problem-solving abilities and my commitment to continuous learning. It showcases my familiarity with various algorithms, data structures, and problem domains encountered on the platform.
 
-## Repository Structure {#repository-structure}
+## Repository Structure <a id="repository-structure"></a>
 
 To provide an organized and accessible representation of my LeetCode journey, I have structured this repository systematically. The repository is divided into three main folders based on problem difficulty: Easy, Medium, and Hard. Each folder contains individual problem files, named after the problem numbers. For example, problem number 13 on leetcode is problem13.cpp and is located in the Easy folder.
 
-## Getting Started {#getting-started}
+## Getting Started <a id="getting-started"></a>
 
 To review my LeetCode Problem Portfolio, please follow these steps:
 
 Clone the repository: Start by cloning this repository to your local machine using your preferred Git client or by running the following command:
 
-'''
+```
 git clone <repository_url>
-'''
+```
 
 **Explore the problems:** Navigate through the categorized folders (Easy, Medium, and Hard) to discover the problems I have solved. Each problem is accompanied by a corresponding file named after the problem number or name.
 
@@ -36,10 +36,10 @@ git clone <repository_url>
 
 **Repeat steps 2-4:** Feel free to explore additional problems in the repository to gain a comprehensive overview of my LeetCode journey and the diverse range of problems I have tackled.
 
-## Contributing {#contributing}
+## Contributing <a id="contributing"></a>
 
 While this repository primarily represents my personal accomplishments, I welcome constructive feedback and suggestions. If you identify areas for improvement, alternative solutions, or opportunities to optimize the existing code, please feel free to create a pull request. I value collaboration and continuous growth.
 
-## License {#license}
+## License <a id="license"></a>
 
 This repository is licensed under the MIT License. You are welcome to use, modify, and distribute the code and contents within this repository, while retaining the original license information.

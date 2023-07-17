@@ -28,13 +28,17 @@ Clone the repository: Start by cloning this repository to your local machine usi
 git clone <repository_url>
 ```
 
-**Explore the problems:** Navigate through the categorized folders (Easy, Medium, and Hard) to discover the problems I have solved. Each problem is accompanied by a corresponding file named after the problem number or name.
+**Explore the problems:**
+Navigate through the categorized folders (Easy, Medium, and Hard) to discover the problems I have solved. Each problem is accompanied by a corresponding file named after the problem number or name.
 
-**Review my solutions:** Open the problem files to examine my solutions in the programming language of your choice. I have provided well-documented code that showcases my problem-solving abilities and my understanding of algorithms and data structures.
+**Review my solutions:** 
+Open the problem files to examine my solutions in the programming language of your choice. I have provided well-documented code that showcases my problem-solving abilities and my understanding of algorithms and data structures.
 
-**Analyze my approach:** Alongside the code, you will find additional notes and explanations as comments within the problem files. These insights offer a deeper understanding of my problem-solving thought process, optimization techniques, and potential trade-offs.
+**Analyze my approach:**
+Alongside the code, you will find additional notes and explanations as comments within the problem files. These insights offer a deeper understanding of my problem-solving thought process, optimization techniques, and potential trade-offs.
 
-**Repeat steps 2-4:** Feel free to explore additional problems in the repository to gain a comprehensive overview of my LeetCode journey and the diverse range of problems I have tackled.
+**Repeat steps 2-4:** 
+Feel free to explore additional problems in the repository to gain a comprehensive overview of my LeetCode journey and the diverse range of problems I have tackled.
 
 ## Contributing <a id="contributing"></a>
 

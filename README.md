@@ -37,13 +37,6 @@ Open the problem files to examine my solutions in the programming language of yo
 **Analyze my approach:**
 Alongside the code, you will find additional notes and explanations as comments within the problem files. These insights offer a deeper understanding of my problem-solving thought process, optimization techniques, and potential trade-offs.
 
-**Repeat steps 2-4:** 
-Feel free to explore additional problems in the repository to gain a comprehensive overview of my LeetCode journey and the diverse range of problems I have tackled.
-
-## Contributing <a id="contributing"></a>
-
-While this repository primarily represents my personal accomplishments, I welcome constructive feedback and suggestions. If you identify areas for improvement, alternative solutions, or opportunities to optimize the existing code, please feel free to create a pull request. I value collaboration and continuous growth.
-
 ## License <a id="license"></a>
 
 This repository is licensed under the MIT License. You are welcome to use, modify, and distribute the code and contents within this repository, while retaining the original license information.
